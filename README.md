@@ -1,6 +1,12 @@
-![](https://github.com/user/banner.png)
+![banner](https://user-images.githubusercontent.com/83345245/180642747-00e4c902-45bf-4b78-83db-6d7fb834863a.png)
 
 ### Hi there 👋
+
+I'm a fullstack developer and recent graduate from the School of Code developer bootcamp!
+
+
+
+
 
 <!--
 **DevMattDavies/DevMattDavies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
