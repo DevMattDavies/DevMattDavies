@@ -4,7 +4,9 @@
 
 I'm a fullstack developer and recent graduate from the School of Code developer bootcamp!
 
+I'm hugely passionate about front-end design and love working with React, CSS and JS. 
 
+Please feel free to check out some of projects 👇 and don't hesitate to get in touch!
 
 
 
