@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
-I'm a fullstack developer and recent graduate from the School of Code developer bootcamp!
+I'm Matt, and I'm a React Engineer currently working for BT.
 
-I'm hugely passionate about front-end design and love working with React, CSS and JS. 
+I'm hugely passionate about front-end design and love working with Next.js and CSS. 
 
 Please feel free to check out some of projects 👇 and don't hesitate to get in touch!
 
